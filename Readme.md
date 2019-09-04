@@ -2,11 +2,17 @@
 
 Lockd0wn is an Open Source and free firewall for your iOS device. This project is a frok of the original [https://github.com/confirmedcode/lockdown-ios](Lockdown) without the VPN service and built-in [https://www.appconfig.org/](AppConfig) functionality. As this app should protect users it does not contain any telemetry or tracking.
 
+### Stripped
+- Lockdown VPN (LockdownTunnel)
+- Lockdown VPN Widget
+- Lockdown Firewall Widget
+
 ## Feedback
 
 If you have any questions, concerns, or other feedback, please let me know in the Issues.
 
 ## Roadmap
+
 This app follows the official Lockdown for iOS roadmap. For any feature requests or bug reports, please create an issue on our Github repository.
 
 ## How To Build
