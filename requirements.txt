@@ -1,0 +1,16 @@
+git+https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView
+git+https://github.com/ashleymills/Reachability.swift
+git+https://github.com/behrang/YamlSwift
+git+https://github.com/bizz84/SwiftyStoreKit
+git+https://github.com/CocoaLumberjack/CocoaLumberjack
+git+https://github.com/kishikawakatsumi/KeychainAccess
+git+https://github.com/lexrus/MMDB-Swift
+git+https://github.com/mxcl/PromiseKit
+git+https://github.com/Orderella/PopupDialog
+git+https://github.com/robbiehanson/CocoaAsyncSocket
+git+https://github.com/SwiftKickMobile/SwiftMessages
+git+https://github.com/zhuhaow/NEKit
+git+https://github.com/zhuhaow/Resolver
+git+https://github.com/zhuhaow/Sodium-framework
+git+https://github.com/zhuhaow/tun2socks
+git+https://github.com/zipme/RQShineLabel
