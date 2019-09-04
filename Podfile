@@ -16,29 +16,29 @@ target :'Lockdown' do
   pod 'PopupDialog', '~> 0.9'
 end
 
-target :'LockdownTunnel' do
-  pod 'PromiseKit'
-  pod 'KeychainAccess'
-  pod 'SwiftyStoreKit', '0.13.1'
-  pod 'ReachabilitySwift'
-  pod 'CocoaLumberjack'
-end
+# target :'LockdownTunnel' do
+#   pod 'PromiseKit'
+#   pod 'KeychainAccess'
+#   pod 'SwiftyStoreKit', '0.13.1'
+#   pod 'ReachabilitySwift'
+#   pod 'CocoaLumberjack'
+# end
 
-target :'Lockdown VPN Widget' do
-  pod 'PromiseKit'
-  pod 'SwiftyStoreKit', '0.13.1'
-  pod 'KeychainAccess'
-  pod 'CocoaLumberjack'
-  pod 'ReachabilitySwift'
-end
+# target :'Lockdown VPN Widget' do
+#   pod 'PromiseKit'
+#   pod 'SwiftyStoreKit', '0.13.1'
+#   pod 'KeychainAccess'
+#   pod 'CocoaLumberjack'
+#   pod 'ReachabilitySwift'
+# end
 
-target :'Lockdown Firewall Widget' do
-  pod 'PromiseKit'
-  pod 'SwiftyStoreKit', '0.13.1'
-  pod 'KeychainAccess'
-  pod 'CocoaLumberjack'
-  pod 'ReachabilitySwift'
-end
+# target :'Lockdown Firewall Widget' do
+#   pod 'PromiseKit'
+#   pod 'SwiftyStoreKit', '0.13.1'
+#   pod 'KeychainAccess'
+#   pod 'CocoaLumberjack'
+#   pod 'ReachabilitySwift'
+# end
 
 # post_install do |installer|
 #   installer.pods_project.targets.each do |target|
