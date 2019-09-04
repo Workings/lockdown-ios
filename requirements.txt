@@ -3,6 +3,7 @@ git+https://github.com/ashleymills/Reachability.swift
 git+https://github.com/behrang/YamlSwift
 git+https://github.com/bizz84/SwiftyStoreKit
 git+https://github.com/CocoaLumberjack/CocoaLumberjack
+git+https://github.com/CocoaPods/cocoapods-acknowledgements
 git+https://github.com/kishikawakatsumi/KeychainAccess
 git+https://github.com/lexrus/MMDB-Swift
 git+https://github.com/mxcl/PromiseKit
