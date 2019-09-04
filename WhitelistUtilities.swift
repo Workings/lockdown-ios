@@ -3,6 +3,7 @@
 //  LockdowniOS
 //
 //  Created by Johnny Lin on 8/7/19.
+//  Edited by Velocet on 2019-09-04 (use ISO for dates you damn idiots ^^)
 //  Copyright © 2019 Confirmed Inc. All rights reserved.
 //
 
@@ -64,17 +65,6 @@ func deleteUserWhitelistedDomain(domain: String) {
 // MARK: - Lockdown whitelisted domains
 
 func setupLockdownWhitelistedDomains() {
-    addLockdownWhitelistedDomainIfNotExists(domain: "creditkarma.com")
-    addLockdownWhitelistedDomainIfNotExists(domain: "hulu.com")
-    addLockdownWhitelistedDomainIfNotExists(domain: "netflix.com")
-    addLockdownWhitelistedDomainIfNotExists(domain: "api.twitter.com")
-    addLockdownWhitelistedDomainIfNotExists(domain: "m.twitter.com")
-    addLockdownWhitelistedDomainIfNotExists(domain: "mobile.twitter.com")
-    addLockdownWhitelistedDomainIfNotExists(domain: "houzz.com")
-    addLockdownWhitelistedDomainIfNotExists(domain: "apple.com")
-    addLockdownWhitelistedDomainIfNotExists(domain: "icloud.com")
-    addLockdownWhitelistedDomainIfNotExists(domain: "skype.com")
-    addLockdownWhitelistedDomainIfNotExists(domain: "slickdeals.net")
     addLockdownWhitelistedDomainIfNotExists(domain: "confirmedvpn.com")
 }
 
