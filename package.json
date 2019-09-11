@@ -1,0 +1,24 @@
+{
+    "name": "l0ckd0wn",
+    "description": "Free & Open Source Firewall for iOS",
+    "version": "1.0.0",
+    "main": "LockdowniOS.xcworkspace/contents.xcworkspacedata",
+    "homepage": "https://github.com/Velocet/lockdown-ios",
+    "keywords": ["l0ckd0wn", "iOS", "Lockdown", "LockdowniOS"],
+    "author": "Velocet, ConfirmedCode",
+    "license": "GPLv3",
+    "bugs": {
+        "url": "https://github.com/confirmedcode/lockdown-ios/issues"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Velocet/lockdown-ios.git"
+    },
+    "dependencies": {
+        "express": "aleksandrshoshiashvili/AwesomeSpotlightView",
+        "mocha": "ashleymills/Reachability.swift"
+    }
+}
