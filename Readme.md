@@ -19,7 +19,7 @@ This app follows the official Lockdown for iOS roadmap/development. For any feat
 ## How To Build
 - 'pod install'
 - 'carthage update --no-use-binaries --platform ios'
-- Open the ´´´*.xcworkspace´´´ file to build
+- Open the ```*.xcworkspace``` file to build
 - To sign the app, you will need an Apple Developer account
 
 ## License
